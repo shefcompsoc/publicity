@@ -1,0 +1,10 @@
+CompSoc Style Guide (2016)
+
+Font: Aleo (Light)
+Download: https://www.fontsquirrel.com/fonts/aleo
+
+Colors (darkest to lightest):
+#429f35
+#70b62c
+#93c11f
+#b6cd01
